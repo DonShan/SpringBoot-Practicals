@@ -1,0 +1,5 @@
+mangment:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
